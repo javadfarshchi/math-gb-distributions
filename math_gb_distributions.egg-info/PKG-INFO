@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: math-gb-distributions
+Version: 1.1
+Summary: Gaussian and Binomial distributions
+Author: Javad Farshchi
+Author-email: mjavad.farshchi@gmail.com
+Description-Content-Type: text/markdown
+
+# Gaussian and Binomial distributions!
+
+* a Python library for helping you with calculation, plotting, and summation of Gaussian and Binomial Distributions.
